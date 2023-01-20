@@ -34,7 +34,7 @@ export default function App() {
 
   const settings = {
     dots: true,
-    infinite: true,
+    infinite: false,
     arrows: false,
     speed: 500,
     slidesToShow: 4,
@@ -76,7 +76,7 @@ export default function App() {
 
   return (
     <div>
-      <h1 style={{ textAlign: "center", margin: "20px 0px" }}>
+      <h1 style={{ textAlign: "center", margin: "20px 0px", color: "#ffff" }}>
         REACT-SLICK CAROUSEL
       </h1>
 

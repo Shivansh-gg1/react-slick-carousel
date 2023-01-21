@@ -123,6 +123,6 @@ const products = [
   },
   {
     id: 6,
-    image: "https://lh3.googleusercontent.com/qZ6uF2t62wIbuovRoPwZ8_plopGdeYz7iGhzROPaI5Slk19PlT7HojPTCCJd9r0B2sJDernKJB0giA_l1xvo8Kh6rg=w640-h400-e365-rj-sc0x00ffffff",
+    image: "https://images.unsplash.com/photo-1674240587643-4b261f0dceb6?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
   },
 ];

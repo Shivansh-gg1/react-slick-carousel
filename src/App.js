@@ -2,6 +2,7 @@ import React from "react";
 import Slider from "react-slick";
 import "./App.css";
 import BasicCard from "./Card";
+import Moon from "./components/moon/moon.jsx"
 
 function SampleNextArrow(props) {
   const { className, style, onClick } = props;
@@ -95,6 +96,9 @@ export default function App() {
           return <BasicCard item={item} />;
         })}
       </Slider>
+      <>
+      <Moon />
+      </> 
     </div>
   );
 }

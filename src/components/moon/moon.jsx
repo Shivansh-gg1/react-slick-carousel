@@ -3,7 +3,7 @@
 import React from 'react';
 import './moon';
 import './moon.css';
-import ImgMoon from './moon.png';
+// import ImgMoon from './moon.png';
 import mountainsbehind from './mountains_behind.png';
 import mountainsfront from './mountains_front.png';
 import stars from './stars.png';
@@ -38,13 +38,7 @@ export const Moon = () => {
         temporibus ut sunt impedit, hic et minus, quisquam praesentium commodi
         veritatis.br <br /><br />Lorem ipsum dolor sit amet consectetur,
         adipisicing elit. Nostrum soluta at inventore in ratione eius facere
-        corporis earum vero. Inventore magnam repellendus voluptate nulla illum
-        aliquid saepe provident ipsum excepturi?Lorem ipsum dolor sit amet
-        consectetur adipisicing elit. Veritatis sit explicabo deleniti illum hic
-        ipsum commodi, vitae quia quasi corporis, saepe omnis error minus
-        voluptas non earum porro delectus et.br <br />Lorem ipsum dolor sit amet consectetur,
-        adipisicing elit. Veniam debitis, harum sequi fugiat id sapiente ipsum.
-        Dolores, omnis explicabo temporibus ut sunt impedit, hic et minus,
+        corporis earum vero. Inventore magnam repellendus voluptate nulla illumibus ut sunt impedit, hic et minus,
         quisquam praesentium commodi veritatis.br <br />
       </p>
     </div>

@@ -2,7 +2,10 @@ import React from "react";
 import Slider from "react-slick";
 import "./App.css";
 import BasicCard from "./Card";
-import Moon from "./components/moon/moon.jsx"
+import Moon from "./components/moon/moon.jsx";
+import Carousel from "./components/carousals/Carousel"
+import Customer from "./components/customer/Customer";
+import Customer2 from "./components/customer2/Customer2";
 
 function SampleNextArrow(props) {
   const { className, style, onClick } = props;
@@ -98,6 +101,11 @@ export default function App() {
       </Slider>
       <>
       <Moon />
+
+      <Carousel />
+      <Customer />
+      <Customer2 />
+
       </> 
     </div>
   );
